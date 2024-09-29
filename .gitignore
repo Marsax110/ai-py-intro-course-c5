@@ -1,0 +1,11 @@
+# 排除。idea文件夹
+.idea
+
+# 排除.venv文件夹
+.venv
+
+# 排除.vscode文件夹
+.vscode
+
+
+.DS_Store
